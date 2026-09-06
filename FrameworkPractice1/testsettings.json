@@ -1,0 +1,11 @@
+﻿{
+  "ChromeBrowser": "chrome",
+  "UiTestUrl": "https://saucedemo.com",
+  "UiTestCartUrl": "https://www.saucedemo.com/cart.html",
+  "UiTestCheckoutSuccessUrl": "https://www.saucedemo.com/checkout-complete.html",
+  "UiTestHomePageUrl": "https://www.saucedemo.com/inventory.html",
+  "ApiCatFactUrl": "https://catfact.ninja",
+  "ApiBookstoreUrl": "https://demoqa.com/Bookstore/v1",
+  "ApiBookstoreUserUrl": "https://demoqa.com/Account/v1",
+  "DemoQAUrl": "https://demoqa.com"
+}
